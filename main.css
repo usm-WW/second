@@ -1,0 +1,31 @@
+.bg {
+    background-color: aqua;
+}
+
+.one {
+    background-color: yellow;
+    width: 180px;
+    height: 30px;
+}
+
+.d {
+    background-color: red;
+    width: 180px;
+    color: white;
+}
+
+.g {
+    background-color: green;
+    width: 180px;
+    color: white;
+}
+
+.vv {
+    width: 60px;
+    height: 60px;
+}
+
+table {
+
+text-align: center;
+}
